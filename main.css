@@ -1,0 +1,22 @@
+.container {
+background-color: gold;
+}
+
+.sportbackground {
+    background-color: rgb(116, 180, 95);
+}
+
+#economy {
+    background-color: brown;
+}
+
+#entretenimento {
+    background-color: rgb(0, 93, 253);
+}
+
+#tecnologia{
+    background-color: chocolate;
+}
+p {
+    font-style: italic;
+}
